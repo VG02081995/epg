@@ -1,4 +1,4 @@
-# EPG [![update](https://github.com/iptv-org/epg/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/epg/actions/workflows/update.yml)
+# EPG [![update](https://github.com/VG02081995/EPG.xml.gz)
 
 Tools for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources.
 
@@ -236,3 +236,4 @@ And thank you to everyone who has already contributed!
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
+
